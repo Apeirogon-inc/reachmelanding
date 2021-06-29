@@ -1,5 +1,5 @@
 # Intro
-This a react frontend.
+This a react intro web for our startup which will be deployed soon.
 
 
 
