@@ -1,0 +1,70 @@
+{
+    "Header": {
+
+        "title": "Emler",
+        "paragraph": "We are a startup company making a network where people can share there experience and can do many more things more then a social media. "
+
+    },
+    "About": {
+        "paragraph": "We are a startup company making a network where people can share there experience and can do many more things more then a social media.From the day internet got better web surfing feature from thst day there is scared that is that a fraud website or is it real we have developed this platform so thast people can share their experience on the product and make it more clear is it good or bad. ",
+        "tohandleerror": [
+            "test1",
+            "test2",
+            "test3",
+            "test4"
+        ]
+        
+    },
+  
+ 
+       
+    "Team": [{
+            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/53530345_326595408203284_1594743304287682560_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=xUiUI3dOS_YAX_jglBh&_nc_ht=scontent.fbwa1-1.fna&oh=1546d9dcecc825e3bb09a30318aab076&oe=60E24667",
+            "name": "Shaish Guni",
+            "job": "Founder Owner CEO  Full Stack Developer Tech Group"
+        },
+        {
+            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/203667800_2365044196962603_8554413696836139396_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=gsk2wbQyh1IAX81NRRY&_nc_ht=scontent.fbwa1-1.fna&oh=5d6fb3fdc34f6d94548b3c9ccd3bfc36&oe=60E21D4A",
+            "name": "Aditya Pandey",
+            "job": "Full Stack Developer"
+        }, {    
+            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/186481075_468431104440003_4381290665769985484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=19026a&_nc_ohc=CiC-RkNDulwAX85Mp6z&_nc_ht=scontent.fbwa1-1.fna&oh=8cbd7110ebc935ba8e64f94590c5ee37&oe=60E2190D",
+            "name": "Shuvam Chand",
+            "job": "Frontend Developer"
+        },
+        {
+            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/199643009_324904099205766_6193767806136670843_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=KrpFIYlaIP0AX9N7LUB&_nc_ht=scontent.fbwa1-1.fna&oh=e1c63750d437dd97fcb9861fabca294a&oe=60E28653",
+            "name": "Jenish Sunwar",
+            "job": "UI/UX Designer"
+        }
+    ],
+    "Contact": {
+        "address": "Bauddha,Kathmandu,Nepal",
+        "phone": "+977 9849232961",
+        "email": "gunisguni2007@gmail.vom",
+        "facebook": "/",
+        "twitter": "/",
+        "youtube": "/"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Real-Time Messaging system.",
+            "text": "You can talk to your freinds or anyone else too."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Post Board",
+            "text": "You can post your question and experience."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Real-Time Freindship Management",
+            "text": "You can get accept and decline freindship requests.  "
+        },
+        {
+            "icon": "fa fa-pencil-square-o",
+            "title": "Full option to customize profile. ",
+            "text": "You have complete right to customize your profilel like to modify your profile  change your profile image and many more. "
+        }
+    ]
+}
