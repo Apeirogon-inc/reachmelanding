@@ -7,7 +7,7 @@ Made in React the landing page of reachme a new startup comming to internet soon
 # Local Setup
 
 ```json
-npm i
+yarn
 ```
 ```
 npm start
