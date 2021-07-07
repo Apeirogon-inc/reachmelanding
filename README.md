@@ -4,7 +4,7 @@ The landing page of Reachme.By Shaish Guni Founder Owner CEO Tech Group
 Made in React the landing page of reachme a new startup comming to internet soon.
 	
 
-# Socal Setup
+# Local Setup
 
 ```json
 npm i
