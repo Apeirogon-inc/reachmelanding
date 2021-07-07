@@ -1,10 +1,10 @@
 # reactfrontend
 The landing page of Reachme.By Shaish Guni Founder Owner CEO Tech Group
-<h6><a herf="https://reachme.netlify.app/">Live Here<a></h6>
+[Live Here.](https://reachme.netlify.app/)
 Made in React the landing page of reachme a new startup comming to internet soon.
 	
 
-# local setup
+# Socal Setup
 
 ```json
 npm i
