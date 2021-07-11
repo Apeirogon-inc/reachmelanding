@@ -19,21 +19,21 @@
  
        
     "Team": [{
-            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/53530345_326595408203284_1594743304287682560_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=xUiUI3dOS_YAX_jglBh&_nc_ht=scontent.fbwa1-1.fna&oh=1546d9dcecc825e3bb09a30318aab076&oe=60E24667",
+            "img": "https://lh3.googleusercontent.com/ogw/ADea4I5Ch1jV9tOOal564RtE7beA4QJhHpmpi3ITHeV0BQ=s192-c-mo",
             "name": "Shaish Guni",
             "job": "Founder Owner CEO  Full Stack Developer Tech Group"
         },
         {
-            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/203667800_2365044196962603_8554413696836139396_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=gsk2wbQyh1IAX81NRRY&_nc_ht=scontent.fbwa1-1.fna&oh=5d6fb3fdc34f6d94548b3c9ccd3bfc36&oe=60E21D4A",
+            "img": "https://avatars.githubusercontent.com/u/74968640?v=4",
             "name": "Aditya Pandey",
             "job": "Full Stack Developer"
         }, {    
-            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/186481075_468431104440003_4381290665769985484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=19026a&_nc_ohc=CiC-RkNDulwAX85Mp6z&_nc_ht=scontent.fbwa1-1.fna&oh=8cbd7110ebc935ba8e64f94590c5ee37&oe=60E2190D",
+            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/186481075_468431104440003_4381290665769985484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=19026a&_nc_ohc=Z-RyW0nfI9AAX9xkomW&_nc_ht=scontent.fbwa1-1.fna&oh=2b0003add49d45ee159774430385da58&oe=60EFF0CD",
             "name": "Shuvam Chand",
             "job": "Frontend Developer"
         },
         {
-            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/199643009_324904099205766_6193767806136670843_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=KrpFIYlaIP0AX9N7LUB&_nc_ht=scontent.fbwa1-1.fna&oh=e1c63750d437dd97fcb9861fabca294a&oe=60E28653",
+            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/c0.277.720.720a/208927762_336998531329656_6711100444963197330_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=w58HP6wRS2IAX-r8Gpa&_nc_ht=scontent.fbwa1-1.fna&oh=25db39664da6d76348060b305b0688cb&oe=60F0CFE0",
             "name": "Jenish Sunwar",
             "job": "UI/UX Designer"
         }
@@ -64,7 +64,7 @@
         {
             "icon": "fa fa-pencil-square-o",
             "title": "Full option to customize profile. ",
-            "text": "You have complete right to customize your profilel like to modify your profile  change your profile image and many more. "
+            "text": "You have complete right to customize your profile like to modify your profile. "
         }
     ]
 }
