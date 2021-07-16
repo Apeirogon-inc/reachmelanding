@@ -10,13 +10,13 @@ Made in React the landing page of reachme a new startup comming to internet soon
 yarn
 ```
 ```
-npm start
+yarn start
 ```
 
 ## For deploying
 
 ```json
-npm run build
+yarn run build
 ```
 
 				
