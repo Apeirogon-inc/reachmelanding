@@ -24,11 +24,11 @@ export const Contact = (props) => {
       )
       .then(
         (result) => {
-          console.log(result.text)
+          alert(result.text)
           clearState()
         },
         (error) => {
-          console.log(error.text)
+          alert.log(error.text)
         }
       )
   }
