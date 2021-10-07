@@ -17,18 +17,18 @@ export const Contact = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    alert(name, email, message)
+    console.log(name, email, message)
     emailjs
       .sendForm(
         'service_5t75s0p', 'template_3115t35', e.target, 'user_zRgEYJQU6zbT5bQridOgY'
       )
       .then(
         (result) => {
-          alert(result.text)
+          console.log(result.text)
           clearState()
         },
         (error) => {
-          alert.log(error.text)
+          console.log(error.text)
         }
       )
   }
