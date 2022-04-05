@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-           © Tech Group  2020-{(new Date().getFullYear())} Design and Developed by {'Shaish Guni Owner CEO '}
+           © Contant  2020-{(new Date().getFullYear())} Design and Developed by {'Shaish Guni Owner CEO '}
             <a href='/' rel='nofollow'>
              Tech Group
             </a>
