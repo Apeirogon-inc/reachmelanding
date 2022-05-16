@@ -21,22 +21,13 @@
     "Team": [{
             "img": "https://lh3.googleusercontent.com/ogw/ADea4I5Ch1jV9tOOal564RtE7beA4QJhHpmpi3ITHeV0BQ=s192-c-mo",
             "name": "Shaish Guni",
-            "job": "Founder Owner CEO  Full Stack Developer Tech Group"
+            "job": "Founder , CEO  Full Stack Developer Apeirogon."
         },
         {
             "img": "https://avatars.githubusercontent.com/u/74968640?v=4",
             "name": "Aditya Pandey",
-            "job": "Full Stack Developer"
-        }, {    
-            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/186481075_468431104440003_4381290665769985484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=19026a&_nc_ohc=Z-RyW0nfI9AAX9xkomW&_nc_ht=scontent.fbwa1-1.fna&oh=2b0003add49d45ee159774430385da58&oe=60EFF0CD",
-            "name": "Shuvam Chand",
-            "job": "Frontend Developer"
-        },
-        {
-            "img": "https://scontent.fbwa1-1.fna.fbcdn.net/v/t1.6435-9/c0.277.720.720a/208927762_336998531329656_6711100444963197330_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=w58HP6wRS2IAX-r8Gpa&_nc_ht=scontent.fbwa1-1.fna&oh=25db39664da6d76348060b305b0688cb&oe=60F0CFE0",
-            "name": "Jenish Sunwar",
-            "job": "UI/UX Designer"
-        }
+            "job": "Co-Founder,CTO"
+        }, 
     ],
     "Contact": {
         "address": "Bauddha,Kathmandu,Nepal",
