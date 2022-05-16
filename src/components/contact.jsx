@@ -152,7 +152,7 @@ export const Contact = (props) => {
           <p>
            © Contant  2020-{(new Date().getFullYear())} Design and Developed by {'Shaish Guni Owner CEO '}
             <a href='/' rel='nofollow'>
-             Tech Group
+             Apeirogon
             </a>
           </p>
         </div>
